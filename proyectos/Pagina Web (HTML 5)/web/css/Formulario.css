@@ -1,0 +1,70 @@
+body{
+    background-size: cover;
+}
+
+h1{
+    background-color:darkred;
+    color:white;
+    text-align:center;
+}
+h4{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+    background-color:beige;
+}
+
+nav li{
+    text-align: center;
+    overflow: hidden;
+    whidt:100%;
+    display:inline-block;
+    font-size: 20px;
+}
+
+
+#contenido{
+    width:800px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+#NotaDePie{
+    bottom: 0;
+    width: 800px;
+    height: 40px;
+    font-size: 20px;
+    background-color: white;
+    position:fixed;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Menu{
+    border:crimson;
+    font-size: large;
+}
+
+#titulo_form {
+    border-bottom-color: grey;
+    border-bottom-width: 2px;
+    border-bottom-style: dashed;
+    text-align: left;
+}
+.item {
+    color: red;
+}
+
+.aceptar {
+    text-align: center;
+}
+
+#cronograma {
+    border: 1px solid black;
+
+}
+.bordeado{
+    border: 1px solid black;
+}
